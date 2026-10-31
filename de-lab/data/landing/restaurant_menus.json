@@ -1,0 +1,2641 @@
+{
+  "source": "partner-menu-api",
+  "extracted_at": "2026-10-21T06:00:00",
+  "restaurants": [
+    {
+      "restaurant_id": 225,
+      "name": "Udupi Rasoi",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "225-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "225-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "225-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 153,
+      "name": "Spice Grill",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "153-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "153-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "153-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 202,
+      "name": "Udupi House",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "202-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "202-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": false
+          },
+          {
+            "item_id": "202-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 220,
+      "name": "Lucknowi Cafe",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "220-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "220-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "220-2",
+            "name": "Raita",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "jain"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 226,
+      "name": "Tandoori Tiffins",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "226-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "226-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "veg"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "226-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 51,
+      "name": "Desi Cafe",
+      "cuisine": "Healthy",
+      "menu": {
+        "items": [
+          {
+            "item_id": "51-0",
+            "name": "Quinoa Bowl",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "51-1",
+            "name": "Sprouts Salad",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "51-2",
+            "name": "Smoothie",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 189,
+      "name": "Madras Bites",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "189-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": false
+          },
+          {
+            "item_id": "189-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "189-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": false
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 5,
+      "name": "Rajdhani Kitchen",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "5-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "5-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "5-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 120,
+      "name": "Bombay Adda",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "120-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "120-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "120-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "new"
+            ],
+            "available": false
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 135,
+      "name": "Biryani Corner",
+      "cuisine": "South Indian",
+      "menu": {
+        "items": [
+          {
+            "item_id": "135-0",
+            "name": "Masala Dosa",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "135-1",
+            "name": "Idli Vada",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "135-2",
+            "name": "Filter Coffee",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "bestseller"
+            ],
+            "available": false
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 216,
+      "name": "Masala Cafe",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "216-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "216-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "new"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "216-2",
+            "name": "Raita",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 100,
+      "name": "Goan Corner",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "100-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "100-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "100-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "jain"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 26,
+      "name": "Kolkata Express",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "26-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "26-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "26-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 35,
+      "name": "Spice Bhavan",
+      "cuisine": "South Indian",
+      "menu": {
+        "items": [
+          {
+            "item_id": "35-0",
+            "name": "Masala Dosa",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "35-1",
+            "name": "Idli Vada",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "jain"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "35-2",
+            "name": "Filter Coffee",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 95,
+      "name": "Coastal Kitchen",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "95-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "95-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "95-2",
+            "name": "Raita",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 87,
+      "name": "Udupi Rasoi",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "87-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "87-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "87-2",
+            "name": "Raita",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 72,
+      "name": "Punjabi Corner",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "72-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "72-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "72-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 105,
+      "name": "Chaat Junction",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "105-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "105-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "105-2",
+            "name": "Raita",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 36,
+      "name": "Bombay Kitchen",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "36-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "36-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "36-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": false
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 27,
+      "name": "Punjabi Dhaba",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "27-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "27-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "27-2",
+            "name": "Raita",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": false
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 56,
+      "name": "Punjabi Point",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "56-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "56-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "56-2",
+            "name": "Raita",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 53,
+      "name": "Royal Rasoi",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "53-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "53-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "53-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 205,
+      "name": "Bombay Point",
+      "cuisine": "South Indian",
+      "menu": {
+        "items": [
+          {
+            "item_id": "205-0",
+            "name": "Masala Dosa",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "205-1",
+            "name": "Idli Vada",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "205-2",
+            "name": "Filter Coffee",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 210,
+      "name": "Desi Corner",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "210-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "210-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "210-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 113,
+      "name": "Punjabi Dhaba",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "113-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "113-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "113-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 204,
+      "name": "Udupi House",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "204-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "204-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "204-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 67,
+      "name": "Spice Dhaba",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "67-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "67-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "67-2",
+            "name": "Raita",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "bestseller"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 76,
+      "name": "Lucknowi Dhaba",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "76-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "76-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "76-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 178,
+      "name": "Chaat Express",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "178-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "178-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "178-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 214,
+      "name": "Royal Kitchen",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "214-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "214-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "214-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "spicy"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 62,
+      "name": "Coastal Darbar",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "62-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "62-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "62-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 192,
+      "name": "Masala Express",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "192-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "192-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "192-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 222,
+      "name": "Chaat Cafe",
+      "cuisine": "Seafood",
+      "menu": {
+        "items": [
+          {
+            "item_id": "222-0",
+            "name": "Fish Curry",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "222-1",
+            "name": "Prawn Fry",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "222-2",
+            "name": "Neer Dosa",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "jain"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 228,
+      "name": "Bombay Kitchen",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "228-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "228-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "228-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 162,
+      "name": "Bombay Point",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "162-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "162-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "162-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 207,
+      "name": "Chaat Rasoi",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "207-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "207-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "207-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 201,
+      "name": "Madras Bites",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "201-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "201-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "201-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 1,
+      "name": "Desi Dhaba",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "1-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "1-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "1-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 184,
+      "name": "Biryani Point",
+      "cuisine": "Seafood",
+      "menu": {
+        "items": [
+          {
+            "item_id": "184-0",
+            "name": "Fish Curry",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "184-1",
+            "name": "Prawn Fry",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "184-2",
+            "name": "Neer Dosa",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 168,
+      "name": "Bombay Dhaba",
+      "cuisine": "North Indian",
+      "menu": {
+        "items": [
+          {
+            "item_id": "168-0",
+            "name": "Paneer Butter Masala",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "168-1",
+            "name": "Dal Makhani",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "168-2",
+            "name": "Butter Naan",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 33,
+      "name": "Tandoori Kitchen",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "33-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "33-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "33-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "bestseller"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 166,
+      "name": "Tandoori Kitchen",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "166-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": false
+          },
+          {
+            "item_id": "166-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "166-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 83,
+      "name": "Desi Kitchen",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "83-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "83-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "83-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy",
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 193,
+      "name": "Lucknowi Bites",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "193-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "193-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "193-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 59,
+      "name": "Spice Bhavan",
+      "cuisine": "Seafood",
+      "menu": {
+        "items": [
+          {
+            "item_id": "59-0",
+            "name": "Fish Curry",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "59-1",
+            "name": "Prawn Fry",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "59-2",
+            "name": "Neer Dosa",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 114,
+      "name": "Bombay House",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "114-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "114-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "114-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 75,
+      "name": "Goan Rasoi",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "75-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "75-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "75-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 235,
+      "name": "Madras Point",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "235-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "new"
+            ],
+            "available": false
+          },
+          {
+            "item_id": "235-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "235-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "spicy"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 9,
+      "name": "Masala Kitchen",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "9-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "9-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "9-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 97,
+      "name": "Tandoori House",
+      "cuisine": "Healthy",
+      "menu": {
+        "items": [
+          {
+            "item_id": "97-0",
+            "name": "Quinoa Bowl",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "97-1",
+            "name": "Sprouts Salad",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "97-2",
+            "name": "Smoothie",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 22,
+      "name": "Hyderabadi Bites",
+      "cuisine": "Chinese",
+      "menu": {
+        "items": [
+          {
+            "item_id": "22-0",
+            "name": "Hakka Noodles",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "22-1",
+            "name": "Chilli Paneer",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "22-2",
+            "name": "Manchurian",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 90,
+      "name": "Chaat Bites",
+      "cuisine": "Biryani",
+      "menu": {
+        "items": [
+          {
+            "item_id": "90-0",
+            "name": "Chicken Biryani",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": false
+          },
+          {
+            "item_id": "90-1",
+            "name": "Veg Biryani",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "90-2",
+            "name": "Raita",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 152,
+      "name": "Punjabi Bites",
+      "cuisine": "Desserts",
+      "menu": {
+        "items": [
+          {
+            "item_id": "152-0",
+            "name": "Gulab Jamun",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "152-1",
+            "name": "Rasmalai",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "152-2",
+            "name": "Kulfi",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "jain"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 223,
+      "name": "Royal Grill",
+      "cuisine": "Healthy",
+      "menu": {
+        "items": [
+          {
+            "item_id": "223-0",
+            "name": "Quinoa Bowl",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "223-1",
+            "name": "Sprouts Salad",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain",
+              "new"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "223-2",
+            "name": "Smoothie",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "veg"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 164,
+      "name": "Udupi Corner",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "164-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "164-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller",
+              "veg"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "164-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "jain"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 107,
+      "name": "Amritsari Cafe",
+      "cuisine": "Street Food",
+      "menu": {
+        "items": [
+          {
+            "item_id": "107-0",
+            "name": "Pav Bhaji",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "107-1",
+            "name": "Pani Puri",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": false
+          },
+          {
+            "item_id": "107-2",
+            "name": "Vada Pav",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "new",
+              "jain"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 149,
+      "name": "Kolkata Bhavan",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "149-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "149-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "149-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 131,
+      "name": "Hyderabadi House",
+      "cuisine": "South Indian",
+      "menu": {
+        "items": [
+          {
+            "item_id": "131-0",
+            "name": "Masala Dosa",
+            "price": {
+              "amount": 89,
+              "currency": "INR"
+            },
+            "tags": [
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "131-1",
+            "name": "Idli Vada",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "131-2",
+            "name": "Filter Coffee",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "new"
+            ],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 63,
+      "name": "Spice Bites",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "63-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 299,
+              "currency": "INR"
+            },
+            "tags": [
+              "jain"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "63-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [
+              "spicy"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "63-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 249,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    },
+    {
+      "restaurant_id": 37,
+      "name": "Chaat Express",
+      "cuisine": "Pizza",
+      "menu": {
+        "items": [
+          {
+            "item_id": "37-0",
+            "name": "Margherita",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [
+              "veg",
+              "bestseller"
+            ],
+            "available": true
+          },
+          {
+            "item_id": "37-1",
+            "name": "Farmhouse",
+            "price": {
+              "amount": 129,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          },
+          {
+            "item_id": "37-2",
+            "name": "Garlic Bread",
+            "price": {
+              "amount": 179,
+              "currency": "INR"
+            },
+            "tags": [],
+            "available": true
+          }
+        ]
+      }
+    }
+  ]
+}

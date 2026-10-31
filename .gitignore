@@ -6,3 +6,10 @@ dbt_project/analytics.duckdb
 dbt_project/.user.yml
 .DS_Store
 *.pyc
+
+# de-lab: your sandbox database and generated outputs
+de-lab/lab.duckdb
+de-lab/lab.duckdb.wal
+de-lab/docs/
+de-lab/reports/
+.ipynb_checkpoints/

@@ -1,0 +1,42 @@
+# Day 20: copy to .github/workflows/claude-dbt-review.yml
+# Needs the repo secret ANTHROPIC_API_KEY and the Claude GitHub App installed
+# (run /install-github-app inside Claude Code to set both up).
+# Check https://github.com/anthropics/claude-code-action for the latest inputs.
+name: Claude dbt review
+
+on:
+  pull_request:
+    paths: ["dbt_project/**", "de-lab/**/*.sql"]
+  issue_comment:
+    types: [created]
+
+jobs:
+  dbt-checks:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt -r requirements-dbt.txt
+      - run: cd dbt_project && dbt build --profiles-dir .
+
+  claude-review:
+    # Runs on every PR touching dbt, and whenever someone writes "@claude" in a PR comment
+    if: github.event_name == 'pull_request' || contains(github.event.comment.body, '@claude')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Review the dbt / SQL changes in this pull request against the business rules in CLAUDE.md
+            (revenue definition, refunds, GST, city joins). Flag correctness bugs first, then missing
+            tests in schema.yml. Be concise and leave inline comments on the exact lines.

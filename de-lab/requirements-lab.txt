@@ -1,0 +1,10 @@
+# Everything the lab needs on top of the root requirements.txt
+duckdb>=1.1
+anthropic>=0.70
+pydantic>=2
+rich>=13
+claude-agent-sdk          # Day 19
+jupyterlab                # notebooks
+nbformat
+nbclient
+ipykernel
