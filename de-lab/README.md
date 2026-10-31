@@ -9,7 +9,7 @@ Every day has the same four parts: **Scenario · Goal · Steps to implement · C
 
 Two references sit next to the daily track:
 
-- **[The field guide](playbook/README.md)**: an A–Z dictionary of ~40 real-world problems (late data,
+- **[The field guide](playbook/README.md)**: an A–Z dictionary of 36 real-world problems (late data,
   schema drift, double counting, 3 am failures, PII, prompt injection, token blow-ups...), each with
   symptom, root causes, diagnose queries, fix, how Claude helps, and prevention.
 - **[Tokens & context cheat sheet](guides/tokens-and-context.md)**: every lever for cost, speed and
@@ -124,7 +124,7 @@ L5  [ ] 23 [ ] 24 [ ] 25 [ ] 26 [ ] 27 [ ] 28
 | Agents | Claude Agent SDK, custom tools, autonomy boundaries | 19, 22 |
 | Quality | verification, tests, evals | 3, 8, 21 |
 | Tokens & context | token accounting, `/context` / `/cost`, `/compact` / `/clear`, lean tools, caching design and invalidators, context editing, compaction, external memory, task budgets, cost per correct task | 23–28 |
-| Real-world readiness | field guide of ~40 production problems, each with diagnose / fix / prevent | [playbook](playbook/README.md) |
+| Real-world readiness | field guide of 36 production problems, each with diagnose / fix / prevent | [playbook](playbook/README.md) |
 
 ## Cost notes
 
